@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**it2021123/it2021123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 - 🌱I am undergraduated student in HUA<br>
 - 🔭 I am working as high school  exam preparation instructor<br>
