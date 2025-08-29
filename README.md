@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-- 🌱I am undergraduated student in HUA<br>
-- 🔭 I am currently working as a high school exam preparation instructor and an intern researcher specializing in drug interactions<br>.
-- 🤔i am currently searching of  job as Data Analyst<br>
+- 🌱I am graduated in HUA<br>
+- 🔭 I am currently working as a high school exam preparation instructor and an intern researcher specializing in drug interactions.<br>
+- 🤔I am currently searching of  job <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giorgos_plmn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GeorgiosPoulimenos) 
